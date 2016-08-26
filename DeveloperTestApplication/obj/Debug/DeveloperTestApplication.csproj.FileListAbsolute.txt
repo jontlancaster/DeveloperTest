@@ -1,0 +1,5 @@
+C:\DeveloperTests\DeveloperTestApplication\DeveloperTestApplication\bin\Debug\DeveloperTestApplication.exe
+C:\DeveloperTests\DeveloperTestApplication\DeveloperTestApplication\bin\Debug\DeveloperTestApplication.pdb
+C:\DeveloperTests\DeveloperTestApplication\DeveloperTestApplication\obj\Debug\DeveloperTestApplication.csprojResolveAssemblyReference.cache
+C:\DeveloperTests\DeveloperTestApplication\DeveloperTestApplication\obj\Debug\DeveloperTestApplication.exe
+C:\DeveloperTests\DeveloperTestApplication\DeveloperTestApplication\obj\Debug\DeveloperTestApplication.pdb
