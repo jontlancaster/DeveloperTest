@@ -10,7 +10,6 @@ namespace DeveloperTestApplication
     {
         static void Main(string[] args)
         {
-			//All the things
         }
     }
 }
